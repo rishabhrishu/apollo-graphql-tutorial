@@ -12,5 +12,5 @@ cd myapp
 pip install -r requirements.txt  
 export FLASK_APP=app.py  
 export SQLALCHEMY_DATABASE_URI=<postgres db uri>
-flask run3  
+flask run
 ```
